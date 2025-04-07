@@ -1,0 +1,11 @@
+# Ignore everything in the Notebooks folder
+Notebooks/*
+
+# Except price-prediction.ipynb
+!Notebooks/price-prediction.ipynb
+
+*.joblib
+*.csv
+
+Data/Cab-price-prediction.csv
+Models/random_forest_model.joblib
