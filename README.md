@@ -14,6 +14,12 @@
 ### Objective
 The objective of this project is to build a machine learning model that predicts the price of Lyft rides. The model takes into account various features such as ride distance, passenger count, time of day, and ride type. By providing accurate pricing predictions, this model helps improve pricing transparency, customer satisfaction, and operational efficiency for Lyft.
 
+## Lyft VSCode Setup
+
+![Lyft VSCode 1](https://github.com/ajayvarmaco/Lyft/blob/main/Data/images/lyft-vscode-1.png)
+
+![Lyft VSCode 2](https://github.com/ajayvarmaco/Lyft/blob/main/Data/images/lyft-vscode-2.png) ![Lyft VSCode 3](https://github.com/ajayvarmaco/Lyft/blob/main/Data/images/lyft-vscode-3.png)
+
 ### Dataset
 The dataset consists of historical Lyft ride data and includes the following key features:
 
