@@ -17,8 +17,6 @@ The objective of this project is to build a machine learning model that predicts
 
 ## Lyft VSCode Setup
 
-## Lyft VSCode Setup
-
 | ![Image 1](https://github.com/ajayvarmaco/Lyft/blob/main/Data/images/lyft-vscode-1.png) |
 |------------------------------------------------------------------------------------------------|
 
