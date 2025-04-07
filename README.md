@@ -3,10 +3,11 @@
 
 # Lyft Price Prediction
 
-### Author: Ajay Varma  
-### Date: April 2025  
-### Project Directory: `/Users/ajayvarma/Documents/VS Code/Workspace/Data Science/Projects/Lyft/`  
-### Type: Portfolio Project  
+*Author: Ajay Varma*  
+*Date: APR-2025*  
+*Project Directory: `/Users/ajayvarma/Documents/VS Code/Workspace/Data Science/Projects/Lyft/`*  
+*Type: Portfolio Project*
+
 ---
 
 ## Project Overview
@@ -16,9 +17,11 @@ The objective of this project is to build a machine learning model that predicts
 
 ## Lyft VSCode Setup
 
-![Lyft VSCode 1](https://github.com/ajayvarmaco/Lyft/blob/main/Data/images/lyft-vscode-1.png)
+| ![Image 1](https://github.com/ajayvarmaco/chase/blob/main/Data/images/lyft-vscode-1.png) |
+|------------------------------------------------------------------------------------------------|
 
-![Lyft VSCode 2](https://github.com/ajayvarmaco/Lyft/blob/main/Data/images/lyft-vscode-2.png) ![Lyft VSCode 3](https://github.com/ajayvarmaco/Lyft/blob/main/Data/images/lyft-vscode-3.png)
+| ![Image 2](https://github.com/ajayvarmaco/chase/blob/main/Data/images/lyft-vscode-2.png) | ![Image 3](https://github.com/ajayvarmaco/chase/blob/main/Data/images/lyft-vscode-3.png) |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 
 ### Dataset
 The dataset consists of historical Lyft ride data and includes the following key features:
